@@ -1,7 +1,7 @@
 <?pHp
 
           /**
-            * Responsive Webshell
+            * HaxorSme
           **/
 
 $a =   [
